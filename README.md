@@ -1,5 +1,5 @@
 # yongshuoE
-一键获取下载永硕E盘文件
+一键获取获取 永硕E盘文件  下载链接
 1、crx 脚本运行 暴力猴  安装下方插件到 谷歌或Edge浏览器
 https://www.crxsoso.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
@@ -8,6 +8,11 @@ https://www.crxsoso.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo
 3、打开右上角扩展 暴力猴 添加用户脚本 
 
 4、打开永硕E盘连接，  到达文件页面， 右上角会出现获取下载连接按钮
+
+
+5、利用下载软件 aria2   IDM FDM 软件下载
+
+
  '''
  // ==UserScript==
 // @name         永硕E盘(ys168) 提取当前已展开文件链接
